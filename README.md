@@ -1,4 +1,4 @@
-# Notes about ml, dl, npl...
+# Notes about ml, dl, npl, c++
 ## deep learning
 - 批标准化( batch normalization)
 
@@ -18,4 +18,4 @@
 ## machine learning
 
 ## natural language processing
-
+- 对句向量的一些调研
