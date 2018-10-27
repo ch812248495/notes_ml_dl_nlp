@@ -18,4 +18,7 @@
 ## machine learning
 
 ## natural language processing
-- 对句向量的一些调研
+-  对句向量编码方法的调研
+-  inferSent方法和迁移学习
+-  p-means 方法:一种广义的取平均方法
+-  从 skip-thoughts 到 quick-thoughts: 句向量中的 skip-gram 方法
