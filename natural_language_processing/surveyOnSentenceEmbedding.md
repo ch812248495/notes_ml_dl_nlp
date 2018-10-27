@@ -30,7 +30,7 @@ skip-thought | 无监督
 ## 一些新的研究进展
 ### SIF
 来自论文one simple but tough-to-beat basline for sentence embeddings, 这种方法非常简单, 是 bag of words 的扩展<br>
-方法是这样的, 句子首先表示为词语向量的加权平均, 然后寻找这个向量的主成分(向量在主轴上的投影), 然后向量减去这个主成分就行了
+方法是这样的, 句子首先表示为词语向量的加权平均, 然后寻找这个向量的主成分(向量在主轴上的投影), 然后向量减去这个主成分就行了
 $$v_s = \frac{1}{s}\sum \frac{a}{a+p(w)} \tag{1}$$
 $$v_s = vs-uu^Tv_s\tag{2}$$
 
