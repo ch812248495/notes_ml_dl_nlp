@@ -33,7 +33,7 @@
   * [object-oriented](./goLearning/go/object-oriented.md)
   * [interface](./goLearning/go/interface.md)
   * [concurrence](./goLearning/go/concurrence.md)
-* [web server building]
+* web server building
   * [How web works](./goLearning/web-foundation/how-web-works.md)
   * [Build a web server by Go](./goLearning/web-foundation/build-a-web-server-by-go.md)
   * [How Go makes it](./goLearning/web-foundation/how-go-makes-it.md)
