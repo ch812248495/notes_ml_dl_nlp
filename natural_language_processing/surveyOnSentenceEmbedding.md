@@ -59,5 +59,5 @@ p 为正无穷的时候, 得到最大值, p 为负无穷的时候, 得到最小�
 SIF | 无监督 | BOW | 一个强大的无监督baseline
 Infernet | 监督 | ImageNet 迁移学习 | 给出一个通用的编码器和迁移学习的思想
 p-mean| 无监督 | BOW | 比 SIF 更加简单有效
-Quick-thought | skip-thought | 多通道分类的方法
-Universal-sentence-encoder | 监督 | Infersent | 更加简单的通用编码器
+Quick-thought | 无监督 | skip-thought | 多通道分类的方法
+Universal-sentence-encoder | 监督 | Infersent | 更加简单的通用编码器
