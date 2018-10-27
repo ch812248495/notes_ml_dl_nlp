@@ -23,5 +23,16 @@
 -  p-means 方法:一种广义的取平均方法
 -  从 skip-thoughts 到 quick-thoughts: 句向量中的 skip-gram 方法
 
-
-
+## go
+* golang basic syntax
+  * Hello, go
+  * Foundation
+  * function and flow control
+  * struct
+  * object-oriented
+  * interface
+  * concurrence
+* web server building
+  * How web works
+  * Build a web server by Go
+  * How Go makes it
