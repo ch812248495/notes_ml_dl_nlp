@@ -22,6 +22,7 @@
 -  [inferSent方法和迁移学习](./natural_language_processing/inferSent.md)
 -  [p-means 方法:一种广义的取平均方法](./natural_language_processing/p-mean.md)
 -  [从 skip-thoughts 到 quick-thoughts:句向量中的 skip-gram 方法](./natural_language_processing/quick-thoughts.md)
+-  [从多任务对话中学习句向量](./natural_language_processing/learnFromDialog.md)
 
 ## go
 * [Introduction of go](./goLearning/go/README.md)
