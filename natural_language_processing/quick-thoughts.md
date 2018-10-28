@@ -1,6 +1,10 @@
 # 从 skip-thoughts 到 quick-thoughts: 句向量中的 skip-gram
 
+<<<<<<< HEAD
 quick-thoughts 是一种升级版的 skip-thought, 它借鉴了词向量中 skip-thought 的方法, 可以说是句向量层面的 skip-thought
+=======
+quick-thoughts是一种升级版的 skip-thought, 它借鉴了词向量中 skip-thought 的方法, 可以说是句向量层面的 skip-thought
+>>>>>>> 02ce1ca8e1fcfb6b1e500cc9058aeeb7546c10c4
 
 ## skip-thought
 要讲qt, 那么离不开他的基础 st, 在 word2vec 算法中, skip-gram 的中心词可以也测 context 窗口中的词汇, 而 st 也是通过中心句预测 context 中的句子
