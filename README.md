@@ -23,7 +23,8 @@
 -  [p-means 方法:一种广义的取平均方法](./natural_language_processing/p-mean.md)
 -  [从 skip-thoughts 到 quick-thoughts:句向量中的 skip-gram 方法](./natural_language_processing/quick-thoughts.md)
 -  [从多任务对话中学习句向量](./natural_language_processing/learnFromDialog.md)
--  [从语言模型中得到自适应的句向量编码](./natural_language_processing/ELMo.md)
+-  [从语言模型中得到自适应的句向量编码-ELMo](./natural_language_processing/ELMo.md)
+-  
 
 ## go
 * [Introduction of go](./goLearning/go/README.md)
