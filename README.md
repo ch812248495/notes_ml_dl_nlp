@@ -1,6 +1,8 @@
 # Notes about ml, dl, npl, c++, go
 ## deep learning
 - [批标准化( batch normalization)](./deep_learning/batch_normalization.md)
+- [万物皆可编码--starspace](././deep_learning/starspace_万物皆可编码.md)
+
 
 ## c++
 - [c++从编译到生成可执行文件流程](./c++/c++从编译到可执行文件流程.md)
@@ -16,6 +18,7 @@
 - [c++11新特性](./c++/c++11.md)
 
 ## machine learning
+- [cart 树源码解析](./machine_learning/cart树实现.md)
 
 ## natural language processing
 -  [对句向量编码方法的调研](./natural_language_processing/surveyOnSentenceEmbedding.md)
@@ -24,7 +27,6 @@
 -  [从 skip-thoughts 到 quick-thoughts:句向量中的 skip-gram 方法](./natural_language_processing/quick-thoughts.md)
 -  [从多任务对话中学习句向量](./natural_language_processing/learnFromDialog.md)
 -  [从语言模型中得到自适应的句向量编码-ELMo](./natural_language_processing/ELMo.md)
--  
 
 ## go
 * [Introduction of go](./goLearning/go/README.md)

@@ -1,6 +1,6 @@
 # starspace----万物皆可编码
 
-论文来自 facebool.ai 的"Embed all the things"
+论文来自 facebook.ai 的"Embed all the things"
 
 ## 概述
 Starspace 是一个非常通用的编码模型, 可以解决以下嵌入模型:
